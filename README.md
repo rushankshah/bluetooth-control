@@ -1,4 +1,4 @@
-# bluetooth_controller
+# Bluetooth Control Flutter
 
 A simple bluetooth control application
 
